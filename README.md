@@ -17,7 +17,7 @@ Trigger the `whatsnew` command as a postinstall webhook to your project's `packa
 `package.json`
 ```
 "scripts": {
-    "postinstall": "show-changelog"
+    "postinstall": "whatsnew"
 }
 ```
 `Output`
