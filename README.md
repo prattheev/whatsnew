@@ -22,7 +22,7 @@ Trigger the `whatsnew` command as a postinstall webhook to your project's `packa
 ```
 `Output`
 
-![Output](demo/sample.png)
+![Output](https://raw.githubusercontent.com/prattheev/whatsnew/master/demo/sample.png)
 
 ## [License](/LICENSE.md)
 Copyright (c) 2017 Pratheev <pratheev@email.com>  
