@@ -1,0 +1,35 @@
+{
+  "name": "whatsnew",
+  "version": "1.0.0",
+  "description": "Shows 'What's new' on installed package",
+  "main": "whatsnew.js",
+  "scripts": {},
+  "bin": {
+    "whatsnew": "./whatsnew.js"
+  },
+  "keywords": [
+    "whatsnew",
+    "changelog",
+    "changeslog",
+    "change log",
+    "changes log",
+    "changes",
+    "show changes log"
+  ],
+  "author": "Pratheev",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cli-table": "^0.3.1",
+    "commander": "^2.11.0",
+    "jsonfile": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prattheev/whatsnew.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prattheev/whatsnew/issues"
+  },
+  "homepage": "https://github.com/prattheev/whatsnew#readme"
+}
